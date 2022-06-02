@@ -1,0 +1,73 @@
+[
+    {
+        "Nombre": "Arroz con leche",
+        "Tipologia": "Postre",
+        "Origen": "Colombia",
+        "Autor": "Oscar",
+        "Fecha": "5 abril 2022",
+        "Ingredientes": {
+            "Nombre": "banana",
+            "Cantidad": "100 gr",
+            "Tiempo_de_coccion": "20 minutos",
+            "Descripcion": "cortar"
+        },
+        "Acompañamiento": {
+            "Nombre": "Galletas",
+            "Descripcion": "use las galletas"
+        },
+        "Procedimiento": " servir y comer",
+        "valoracion": "5",
+    },
+    {
+        "Nombre": "Esponjado de Guanabana",
+        "Tipologia": "Postres",
+        "Origen": "Subachoque",
+        "Autor": "Oscar Salamanca",
+        "Fecha": "10 de abril de 2002",
+        "Ingredientes": [],
+        "Acompañamiento": {
+            "Nombre": "Galletas y Mermelada",
+            "id": "1",
+            "Descripcion": "Puede acompañar con galletas y mermelada de mora"
+        },
+        "Procedimiento": "Despulpe la guanábana y retire las pepas, agregue la guanábana a la licuadora junto con la Crema de leche y la leche condensada, ponga a hervir 100 ml de agua, cuando hierva el agua, agregue la gelatina sin sabor y disuelva muy bien, luego agregue la gelatina sin sabor al contenido de la licuadora y licue hasta obtener una mezcla homogénea; vierta el contenido de la licuadora en una bandeja y déjela reposar en la nevera de 60 a 120 minutos"
+    },
+    {
+        "Nombre": "Esponjado de Durazno",
+        "Tipologia": "Postre",
+        "Origen": "Subachoque",
+        "Autor": "Sergio Salamanca",
+        "Fecha": "31 de Octubre de 2002",
+        "Ingredientes": [
+            {
+                "Nombre": "Duraznos en dulce de almíbar",
+                "Cantidad": "500 gr",
+                "Tiempo de coccion": "N/A",
+                "Descripcion": "aparte los duraznos del dulce"
+            },
+            {
+                "Nombre": "Crema de Leche",
+                "Cantidad": "200 gr",
+                "Tiempo de coccion": "N/A",
+                "Descripcion": "Se recomienda de marca Alpina"
+            },
+            {
+                "Nombre": "Dulce de almíbar",
+                "Cantidad": "300 gr",
+                "Tiempo de coccion": "N/A",
+                "Descripcion": "Se puede utilizar el dulce de los duraznos"
+            },
+            {
+                "Nombre": "Gelatina sin sabor",
+                "Cantidad": "2 Sobres",
+                "Tiempo de coccion": "N/A",
+                "Descripcion": "Se recomienda de marca Gelada"
+            }
+        ],
+        "Acompañamiento": {
+            "Nombre": "Galletas y Mermelada",
+            "Descripcion": "Puede acompañar con galletas y mermelada de mora"
+        },
+        "Procedimiento": "Separe los duraznos del dulce de almíbar, agregue los duraznos a la licuadora junto con la Crema de leche y el dulce de almíbar, ponga a hervir 100 ml de agua, cuando hierva el agua, agregue la gelatina sin sabor y disuelva muy bien, luego agregue la gelatina sin sabor al contenido de la licuadora y licue hasta obtener una mezcla homogénea; vierta el contenido de la licuadora en una bandeja y déjela reposar en la nevera de 60 a 120 minutos"
+    }
+]
